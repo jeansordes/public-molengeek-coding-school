@@ -1,6 +1,6 @@
 # 🎯 Projet : Le jeu "Plus ou Moins"
 
-## Introduction
+![Aperçu du jeu](assets/screenshot-game.png)
 
 Bienvenue dans ton premier projet JavaScript ! 🎉
 
@@ -9,14 +9,6 @@ Tu vas créer un jeu classique : **le jeu du "Plus ou Moins"**. Le principe est 
 - Tu dois deviner ce nombre
 - À chaque tentative, l'ordinateur te donne un indice : **"Plus grand !"** ou **"Plus petit !"**
 - Tu gagnes quand tu trouves le bon nombre !
-
-### 📸 Aperçu du résultat final
-
-Voici à quoi ressemblera ton jeu une fois terminé :
-
-![Aperçu du jeu](assets/screenshot-game.png)
-
----
 
 ## 📁 Fichiers à créer
 
@@ -28,8 +20,6 @@ plus-ou-moins/
 └── script.js
 ```
 
----
-
 ## 🎨 Niveau 1 : Le jeu de base (obligatoire)
 
 ### Étape 1 : Le CSS (fourni)
@@ -39,8 +29,6 @@ plus-ou-moins/
 Ce design est déjà prêt, tu n'as pas besoin de le modifier pour le niveau 1 !
 
 > 💡 **Note** : Les animations `.shake` et `.pulse` en fin de fichier sont prêtes pour le niveau 2 si tu veux les utiliser plus tard !
-
----
 
 ### Étape 2 : La structure HTML
 
@@ -80,8 +68,6 @@ Ouvre ce fichier et **complète les 7 TODO** indiqués dans les commentaires :
 > ⚠️ **Si un élément manque**, relis les TODO correspondants et vérifie ta syntaxe HTML.
 
 ✅ **Tout est bon ?** Passe à l'étape 3 !
-
----
 
 ### Étape 3 : Le JavaScript — Pas à pas
 
