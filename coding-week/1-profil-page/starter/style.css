@@ -1,0 +1,151 @@
+/* =========================
+   BASE
+   ========================= */
+
+body {
+  /* TODO: couleur de fond claire */
+  /* TODO: couleur de texte */
+  /* TODO: police de caractères */
+}
+
+.container {
+  /* TODO: largeur fixe (ex: 900px) */
+  /* TODO: centrer horizontalement */
+}
+
+/* =========================
+   HEADER
+   ========================= */
+
+.header {
+  /* TODO: fond blanc + padding */
+}
+
+.header .container {
+  /* TODO: utilise flexbox pour mettre avatar et texte côte à côte */
+}
+
+.avatar {
+  /* TODO: taille carrée */
+  /* TODO: forme ronde */
+  /* TODO: éviter déformation de l'image */
+  /* TODO: bordure légère */
+}
+
+.name {
+  /* TODO: enlever marge + taille plus grande */
+}
+
+.role {
+  /* TODO: marges + couleur grise */
+}
+
+.meta {
+  /* TODO: petites marges + couleur grise */
+}
+
+/* =========================
+   BOUTONS
+   ========================= */
+
+.btn {
+  /* TODO: transformer le lien en bouton */
+  /* - couleur de fond */
+  /* - couleur de texte */
+  /* - padding */
+  /* - coins arrondis */
+  /* - enlever le soulignement */
+}
+
+.btn:hover {
+  /* TODO: effet au survol */
+}
+
+.btn.small {
+  /* TODO: version plus petite pour les cartes */
+}
+
+/* =========================
+   MAIN + SECTIONS
+   ========================= */
+
+.main {
+  /* TODO: padding vertical */
+}
+
+.section {
+  /* TODO: fond blanc */
+  /* TODO: padding */
+  /* TODO: marge en bas */
+  /* TODO: coins arrondis */
+}
+
+.section h2 {
+  /* TODO: ajuster les marges */
+}
+
+/* =========================
+   COMPÉTENCES (BADGES)
+   ========================= */
+
+.skills {
+  /* TODO: enlever les puces */
+  /* TODO: enlever le padding gauche */
+}
+
+.badge {
+  /* TODO: afficher en ligne */
+  /* TODO: fond coloré */
+  /* TODO: padding */
+  /* TODO: coins très arrondis (pastille) */
+  /* TODO: marges */
+}
+
+/* =========================
+   PROJETS (CARTES)
+   ========================= */
+
+.projects {
+  /* TODO: flexbox pour aligner les cartes */
+}
+
+.card {
+  /* TODO: bordure légère */
+  /* TODO: coins arrondis */
+  /* TODO: padding */
+  /* TODO: largeur 1/3 */
+}
+
+.card:hover {
+  /* TODO: bordure plus visible */
+}
+
+.tags {
+  /* TODO: marges */
+}
+
+.tag {
+  /* TODO: petit badge arrondi */
+}
+
+/* =========================
+   PARCOURS (TIMELINE)
+   ========================= */
+
+.timeline {
+  /* TODO: ajuster marges et indentation */
+}
+
+.timeline li {
+  /* TODO: espacer les lignes */
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.footer {
+  /* TODO: centrer le texte */
+  /* TODO: couleur douce */
+  /* TODO: padding */
+}
