@@ -25,6 +25,55 @@ mon-projet/
 
 ---
 
+## 🇬🇧 Vocabulaire anglais
+
+Les termes anglais que tu vas rencontrer dans cet exercice :
+
+### Structure HTML
+
+| Anglais | Prononciation | Français |
+|---------|---------------|----------|
+| `header` | "hèd-eur" | en-tête |
+| `footer` | "foutt-eur" | pied de page |
+| `main` | "méïn" | principal |
+| `section` | "sèk-cheun" | section |
+| `container` | "keun-téï-neur" | conteneur |
+| `link` | "linnk" | lien |
+| `button` / `btn` | "beut-eun" | bouton |
+
+### Classes et IDs courants
+
+| Anglais | Prononciation | Français |
+|---------|---------------|----------|
+| `avatar` | "a-va-tar" | photo de profil |
+| `skills` | "skilz" | compétences |
+| `badge` | "badj" | badge, pastille |
+| `card` | "kard" | carte |
+| `projects` | "pro-djèkts" | projets |
+| `timeline` | "taïm-laïn" | chronologie |
+| `hover` | "heu-veur" | survol (de la souris) |
+
+### Propriétés CSS
+
+| Anglais | Prononciation | Français |
+|---------|---------------|----------|
+| `background` | "bak-graound" | arrière-plan |
+| `color` | "keu-leur" | couleur |
+| `width` / `height` | "ouïdth" / "haït" | largeur / hauteur |
+| `padding` | "pad-inng" | marge intérieure |
+| `margin` | "mar-djinn" | marge extérieure |
+| `border` | "bor-deur" | bordure |
+| `border-radius` | "bor-deur réï-di-euss" | arrondi des coins |
+| `display` | "dis-pléï" | mode d'affichage |
+| `flex` | "flèks" | flexible |
+| `gap` | "gap" | écart, espace |
+| `align-items` | "a-laïn aï-teumz" | aligner les éléments |
+| `center` | "sènn-teur" | centré |
+| `font-size` | "fonnt saïz" | taille de police |
+| `text-decoration` | "tèkst dé-ko-réï-cheun" | décoration du texte |
+
+---
+
 ## 🖼️ Résultat attendu
 
 Ta page doit contenir :
